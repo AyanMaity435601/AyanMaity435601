@@ -26,7 +26,7 @@ Feel free to reach out to me at [ayanmaity813@gmail.com](mailto:ayanmaity813@gma
 ![sticker3](https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966)
 
 ### ⚡ Fun Fact
-I have a great love for both *Cricket* and *Football*. Whether it's a bat and ball or a football, I'm always up for a game!
+*Cricket 🏏* ❤️ *Football ⚽*
 
 ### 📊 GitHub Stats
 ![Ayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyanMaity435601&show_icons=true&theme=radical)
