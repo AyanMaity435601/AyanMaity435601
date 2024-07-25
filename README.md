@@ -1,49 +1,24 @@
-# 👋 Hi, I'm Ayan Maity
-
-### 👀 About Me
-I'm passionate about *Data Science* and love exploring the vast landscape of data and its potential to transform the world. Ask me about **Python**, **Numpy**, **Pandas**, **Scikit-Learn**, **MySQL**.
-
-![Sticker1](https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966)
-
-### 🌱 Currently Learning
-- *Machine Learning*
-- *Deep Learning*
-- *Time Series Forecasting*
-- *Transformer Architecture*
-- *U-Net*
-- *Stable Diffusion*
-![sticker2](https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)
-
-### 📫 Let's Connect
-Feel free to reach out to me at [ayanmaity813@gmail.com](mailto:ayanmaity813@gmail.com).
-
-### 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/ayan-maity-7b69b0294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- [Twitter](https://x.com/AntuAyan435_601?t=yHtTvPVxvAK86QBvfwKkUg&s=08)
-- [Instagram](https://www.instagram.com/money_heist_435_601?utm_source=qr&igsh=N3R0MnZhamtraWdl)
-- [Facebook](https://www.facebook.com/ayan.maity.71?mibextid=ZbWKwL)
-
-![sticker3](https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966)
-
-### ⚡ Fun Fact
-*Cricket 🏏* ❤️ *Football ⚽*
-
-### 📊 GitHub Stats
-![Ayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyanMaity435601&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyanMaity435601&layout=compact&theme=radical)
-
-### 💻 Skills
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql)
-![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r)
-![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
-![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat-square&logo=plotly)
-![Seaborn](https://img.shields.io/badge/-Seaborn-black?style=flat-square&logo=seaborn)
-![sticker4](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif)
+# 💫 About Me:
+I am a passionate Data Science student from India and working on Machine Learning, Deep Learning, Natural Language Processing, Time Series Forecasting, Transformer Architecture.<br>Currently learning U-Net and Stable Diffusion.<br>Ask me about Python, Numpy, Pandas, Scikit-Learn, MySQL.
 
 
-<!---
-AyanMaity435601/AyanMaity435601 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/money_heist_435_601) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayan-maity-7b69b0294) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AntuAyan435_601) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AyanMaity435601&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AyanMaity435601&theme=codeSTACKr&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyanMaity435601&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AyanMaity435601&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AyanMaity435601&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=AyanMaity435601&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
