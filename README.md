@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayan Maity</h1>
 <h3 align="center">A passionate Data Science Student from India</h3>
 
-
+- Working on Machine Learning, Deep Learning, Time Series Forecasting, Natural Language Processing and Transformer Architecture
 - 🌱 I’m currently learning **U-Net and Stable Diffusion**
 
 
