@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate Data Science student from India and working on Machine Learning, Deep Learning, Natural Language Processing, Time Series Forecasting, Transformer Architecture.<br>Currently learning U-Net and Stable Diffusion.<br>Ask me about Python, Numpy, Pandas, Scikit-Learn, MySQL.
+I am a passionate Data Science student from India and working on Machine Learning, Deep Learning, Natural Language Processing, Time Series Forecasting and Transformer Architecture.<br>Currently learning U-Net and Stable Diffusion.<br>Ask me about Python, Numpy, Pandas, Scikit-Learn, MySQL.
 
 
 ## 🌐 Socials:
