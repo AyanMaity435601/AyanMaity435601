@@ -1,15 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ayan Maity</h1>
 <h3 align="center">A passionate Data Science Student from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayanmaity435601&label=Profile%20views&color=0e75b6&style=flat" alt="ayanmaity435601" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayanmaity435601" alt="ayanmaity435601" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/AntuAyan435_601" target="blank"><img src="https://img.shields.io/twitter/follow/antuayan435_601?logo=twitter&style=for-the-badge" alt="antuayan435_601" /></a> </p>
 
 - 🌱 I’m currently learning **U-Net and Stable Diffusion**
 
-- 👨‍💻 All of my projects are available at [http://127.0.0.1:5500/Portfolio-Website-Template-main/index.html](http://127.0.0.1:5500/Portfolio-Website-Template-main/index.html)
+- 👨‍💻 Portfolio : [http://127.0.0.1:5500/Portfolio-Website-Template-main/index.html](http://127.0.0.1:5500/Portfolio-Website-Template-main/index.html)
 
 - 💬 Ask me about **Python, R, SQL**
 
@@ -17,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/antuayan435_601" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="antuayan435_601" height="30" width="40" /></a>
+<a href="https://twitter.com/AntuAyan435_601" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AntuAyan435_601" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ayan-maity-7b69b0294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayan-maity-7b69b0294" height="30" width="40" /></a>
 <a href="https://fb.com/ayan.maity.71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayan.maity.71" height="30" width="40" /></a>
 <a href="https://instagram.com/money_heist_435_601" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="money_heist_435_601" height="30" width="40" /></a>
@@ -30,5 +25,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayanmaity435601&show_icons=true&locale=en&layout=compact" alt="ayanmaity435601" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayanmaity435601&show_icons=true&locale=en" alt="ayanmaity435601" /></p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayanmaity435601&label=Profile%20views&color=0e75b6&style=flat" alt="ayanmaity435601" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayanmaity435601" alt="ayanmaity435601" /></a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayanmaity435601&" alt="ayanmaity435601" /></p>
