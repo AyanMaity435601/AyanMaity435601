@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently learning **U-Net and Stable Diffusion**
 
-- 👨‍💻 Portfolio : [C:/Users/PC/Desktop/portfolio/Portfolio-Website-Template-main/index.html)
 
 - 💬 Ask me about **Python, R, SQL**
 
