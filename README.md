@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, R, SQL**
 
-- 📫 How to reach me **ayanmaity435601@gmail.com**
+- 📫 How to reach me **rkmveri.ayanmaity@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
