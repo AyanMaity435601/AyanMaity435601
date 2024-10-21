@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayan Maity</h1>
 <h3 align="center">A passionate Data Science Student from India</h3>
 
-- Working on Machine Learning,  Time Series Forecasting
-- 🌱 I’m currently learning **Deep Learning, Natural Language Processing and Transformer Architecture**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning,  Time Series Forecasting, Natural Language Processing and Transformer Architecture**
 
 
 - 💬 Ask me about **Python, R, SQL**
